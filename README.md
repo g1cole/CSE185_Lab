@@ -6,14 +6,17 @@ Advanced Bioinformatics Lab Class Spring 2023 at UC San Diego
 
 Lab 1: [Next Generation Sequencing and Mutation Hunting](https://github.com/g1cole/CSE185_Lab/blob/main/Lab%201%20-%20Next%20Generation%20Sequencing%20and%20Mutation%20Hunting/CSE185-LAB1-PART1%20(1).pdf) | [Part 2](https://github.com/g1cole/CSE185_Lab/blob/main/Lab%201%20-%20Next%20Generation%20Sequencing%20and%20Mutation%20Hunting/CSE185-LAB1-PART2.pdf)  
 - Learned and applied sequence alignment, variant calling, and standard file formats (FASTQ/BAM/VCF) to process NGS data and performed whole genome sequencing to discover potential disease-causing mutations
+  
   - Skills covered: basic UNIX navigation, NGS, sequence alignment and variant calling, python plotting, python scripting and error sources
   
 Lab 2: [Sequence Assembly](https://github.com/g1cole/CSE185_Lab/blob/main/Lab%202%20-%20Sequence%20Assembly/CSE185-LAB2-PART1.pdf) | [Part 2](https://github.com/g1cole/CSE185_Lab/blob/main/Lab%202%20-%20Sequence%20Assembly/CSE185-LAB2-PART2.pdf)
 - Estimated size of a sequenced E. coli strain from an Illumina whole genome sequencing dataset using kmer count histograms and assembled the sequencing reads into a genome of E. coli using short reads from Illumina and long reads from PacBio and compared the quality of the resulting sequences
+  
   - Skills covered: genome size estimation, sequence assembly, command line one-liners, and managing computational resource
   
 Lab 3: [Population Genetics & GWAS](https://github.com/g1cole/CSE185_Lab/blob/main/Lab%203%20-%20Population%20Genetics%20%26%20GWAS/CSE185-LAB3-PART1.pdf) | [Part 2](https://github.com/g1cole/CSE185_Lab/blob/main/Lab%203%20-%20Population%20Genetics%20%26%20GWAS/CSE185-LAB3-PART2.pdf)
 - Used population genetics datasets (mainly VCF files), analysis tools (bcftools) and principal component analysis (PCA) to perform ancestry analysis and also performed a genome-wide association study of a quantitative trait (LDL cholesterol) and explored effects of confounding by ancestry.
+  
   - Skills covered: GWAS, genotype data, principal components analysis, ancestry analysis, plink, p-values, and plotting
   
 *Lab Material with Applications*
